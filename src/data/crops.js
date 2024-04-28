@@ -6,7 +6,7 @@ module.exports = [
   },
   {
     id: "2",
-    name: "Maze",
+    name: "Maize",
     city: "RAMGARH",
   },
   {
@@ -42,7 +42,7 @@ module.exports = [
   },
   {
     id: "9",
-    name: "Maze",
+    name: "Maize",
     city: "East Singhbum",
   },
   {
@@ -57,7 +57,7 @@ module.exports = [
   },
   {
     id: "12",
-    name: "Maze",
+    name: "Maize",
     city: "DUMKA",
   },
 
@@ -79,7 +79,7 @@ module.exports = [
   },
   {
     id: "16",
-    name: "Maze",
+    name: "Maize",
     city: "BOKARO",
   },
 
@@ -98,7 +98,139 @@ module.exports = [
     name: "Blackgram",
     city: "BOKARO",
   },
+  {
+    id: "20",
+    name: "PADDY",
+    city: "DHANBAD",
+  },
+  {
+    id: "21",
+    name: "PIGEON PEA",
+    city: "DHANBAD",
+  },
+  {
+    id: "22",
+    name: "HORSEGRAM",
+    city: "DHANBAD",
+  },
+  {
+    id: "23",
+    name: "WHEAT",
+    city: "DHANBAD",
+  },
+  {
+    id: "24",
+    name: "MAIZE",
+    city: "DHANBAD",
+  },
+  {
+    id: "25",
+    name: "RICE",
+    city: "GODDA",
+  },
+  {
+    id: "26",
+    name: "BLACKGRAM",
+    city: "GODDA",
+  },
+  {
+    id: "27",
+    name: "PIGEON PEA",
+    city: "GODDA",
+  },
+  {
+    id: "28",
+    name: "MAIZE",
+    city: "GODDA",
+  },
+  {
+    id: "29",
+    name: "WHEAT",
+    city: "GODDA",
+  },
+  {
+    id: "30",
+    name: "RICE",
+    city: "JAMTARA",
+  },
+  {
+    id: "31",
+    name: "BLACKGRAM",
+    city: "JAMTARA",
+  },
+  {
+    id: "32",
+    name: "PIGEON PEA",
+    city: "JAMTARA",
+  },
+  {
+    id: "33",
+    name: "MAIZE",
+    city: "JAMTARA",
+  },
+  {
+    id: "34",
+    name: "WHEAT",
+    city: "JAMTARA",
+  },
+  {
+    id: "35",
+    name: "RICE",
+    city: "KHUNTI",
+  },
+  {
+    id: "36",
+    name: "BLACKGRAM",
+    city: "KHUNTI",
+  },
+  {
+    id: "37",
+    name: "PIGEON PEA",
+    city: "KHUNTI",
+  },
+  {
+    id: "38",
+    name: "MAIZE",
+    city: "KHUNTI",
+  },
+  {
+    id: "39",
+    name: "GROUNDNUT",
+    city: "KHUNTI",
+  },
+  {
+    id: "40",
+    name: "RICE",
+    city: "KODERMA",
+  },
+  {
+    id: "41",
+    name: "BLACKGRAM",
+    city: "KODERMA",
+  },
   
+  {
+    id: "42",
+    name: "PIGEON PEA",
+    city: "KODERMA",
+  },
+  
+
+  {
+    id: "43",
+    name: "MAIZE",
+    city: "KODERMA",
+  },
+  
+  {
+    id: "44",
+    name: "WHEAT",
+    city: "KODERMA",
+  },
+  
+  
+  
+
   
   
 ];

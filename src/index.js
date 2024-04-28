@@ -6,20 +6,7 @@ const crops = require("./data/crops");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const districtInfo = require("./data/districtInfo");
-const mongoose = require("mongoose");
-const { State, District, Crop } = require("./schema");
-
 const app = express();
-
-// main()
-//   .then(() => {
-//     console.log("connected");
-//   })
-//   .catch((e) => console.log(e));
-
-// async function main() {
-//   await mongoose.connect("mongodb://0.0.0.0:27017/genius");
-// }
 
 const Port = 3001;
 
